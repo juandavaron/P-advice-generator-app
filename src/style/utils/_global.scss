@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: $font-size-body;
+}
+
+body {
+  background-color: $clr-dark-grayish-blue;
+  color: $clr-light-cyan;
+  font-family: $font-family;
+  font-weight: $font-weight;
+}
+
+h1 {
+  color: $clr-neon-green;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: $font-size-quote;
+}
+
+a {
+  text-decoration: none;
+  color: $clr-neon-green;
+}
