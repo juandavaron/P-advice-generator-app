@@ -23,7 +23,7 @@
     <a href="https://github.com/juandavaron/P-advice-generator-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/juandavaron/P-advice-generator-app">View Demo</a>
+    <a href="https://juandavaron.github.io/P-advice-generator-app/">View Demo</a>
     ·
     <a href="https://github.com/juandavaron/P-advice-generator-app/issues">Report Bug</a>
     ·
