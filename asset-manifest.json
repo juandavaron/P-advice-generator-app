@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/P-advice-generator-app.git/static/css/main.e436b085.css",
-    "main.js": "/P-advice-generator-app.git/static/js/main.9b45a6a4.js",
-    "index.html": "/P-advice-generator-app.git/index.html",
-    "main.e436b085.css.map": "/P-advice-generator-app.git/static/css/main.e436b085.css.map",
-    "main.9b45a6a4.js.map": "/P-advice-generator-app.git/static/js/main.9b45a6a4.js.map"
+    "main.css": "/P-advice-generator-app/static/css/main.e436b085.css",
+    "main.js": "/P-advice-generator-app/static/js/main.9b45a6a4.js",
+    "index.html": "/P-advice-generator-app/index.html",
+    "main.e436b085.css.map": "/P-advice-generator-app/static/css/main.e436b085.css.map",
+    "main.9b45a6a4.js.map": "/P-advice-generator-app/static/js/main.9b45a6a4.js.map"
   },
   "entrypoints": [
     "static/css/main.e436b085.css",
