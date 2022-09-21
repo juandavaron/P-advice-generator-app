@@ -1,0 +1,29 @@
+@mixin breakpointMax($size) {
+
+  @media screen and (max-width: $size) {
+    @content
+  }
+};
+
+@mixin breakpointMin($size) {
+
+  @media screen and (min-width: $size) {
+    @content
+  }
+};
+
+@include breakpointMax($mobile) {
+  .main {
+    &__img {
+      display: none;
+    }
+  }
+}
+
+@include breakpointMin($desktop) {
+  .main {
+    &__container {
+      width: 50% !important;
+    }
+  }
+}

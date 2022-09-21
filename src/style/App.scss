@@ -1,3 +1,5 @@
 @import './utils/variables';
+@import "~bootstrap/scss/bootstrap";
 @import './utils/global';
+@import './../components/Main/main';
 @import './utils/breakpoints';

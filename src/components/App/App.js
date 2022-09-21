@@ -1,11 +1,21 @@
-import './../../style/App.scss'
+import React from 'react';
+import { Main } from '../Main/main';
+import { Footer } from '../Footer/footer';
+import './../../style/App.scss';
 
 function App() {
-  console.log('Hola mundo en consola');
+
+  // State
+  const [advice, setAdvice] = React.useState([0, 'Click the button to see new advice']);
+
   return (
-    <>
-      <h1>Hola mundo</h1>
-    </>
+    <React.Fragment>
+      <Main
+        advice={advice}
+        setAdvice={setAdvice}
+      />
+      <Footer />
+    </React.Fragment>
   );
 }
 

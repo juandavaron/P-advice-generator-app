@@ -11,19 +11,21 @@ html {
 }
 
 body {
-  background-color: $clr-dark-grayish-blue;
+  background-color: $clr-dark-blue;
   color: $clr-light-cyan;
   font-family: $font-family;
   font-weight: $font-weight;
 }
 
 h1 {
+  font-size: .85rem;
   color: $clr-neon-green;
   text-transform: uppercase;
 }
 
 p {
   font-size: $font-size-quote;
+  text-align: center;
 }
 
 a {

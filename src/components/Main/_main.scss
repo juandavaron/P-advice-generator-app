@@ -1,0 +1,32 @@
+.main {
+
+  &__container {
+    background-color: $clr-dark-grayish-blue;
+    position: relative;
+  }
+
+  &__title {
+    letter-spacing: .25rem;
+  }
+
+  &__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.button {
+  height: 3.75rem;
+  width: 3.75rem;
+  border-radius: 50%;
+  border: none;
+  background-color: $clr-neon-green;
+  position: absolute;
+  bottom: -3rem;
+
+  &:hover {
+    background-color: $clr-neon-green !important;
+    box-shadow: $shadow-neon
+  }
+}
