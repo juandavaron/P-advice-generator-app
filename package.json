@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/juandavaron/P-advice-generator-app.git"
   },
-  "homepage": "https://github.com/juandavaron/P-advice-generator-app.git",
+  "homepage": "https://juandavaron.github.io/P-advice-generator-app.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
